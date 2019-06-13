@@ -11,7 +11,12 @@ https://github.com/cx9208/Linux-NetSpeed
 在vultr上 Centos 7, Debian 8/9, Ubuntu 16/18测试通过
 安装命令：
 
-wget "https://github.com/chiakge/Linux-NetSpeed/raw/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
+原版 wget "https://github.com/chiakge/Linux-NetSpeed/raw/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
+
+备份版本 wget "https://github.com/vsp6688/Linux-NetSpeed/blob/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh 
+
+
+
 部分如果提示连接不上github。可以先安装
 yum install net-tools -y  或者 apt-get install net-tools -y
 
