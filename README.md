@@ -39,4 +39,4 @@ apt-get -y install ca-certificates
 "2. 安装 BBRplus版内核 "                对应7（plus）
 "3. 安装 Lotserver(锐速)内核"        对应8（锐速）
 
-3. 开启后再 ./tcp.sh  ， 显示开启成功则启动成功，你也可以自己手动确认
+3. 开启后再 ./tcp.sh  ， 显示开启成功则启动成功，你也可以自己手动确认 
