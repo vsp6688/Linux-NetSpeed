@@ -14,7 +14,7 @@ https://github.com/cx9208/Linux-NetSpeed
 原版 wget "https://github.com/chiakge/Linux-NetSpeed/raw/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
 ```
 ```bash
-备份版本 wget "https://raw.githubusercontent.com/vsp6688/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh 
+备份版本 wget "https://raw.githubusercontent.com/vsp6688/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
 ```
 
 部分如果提示连接不上github。可以先安装
